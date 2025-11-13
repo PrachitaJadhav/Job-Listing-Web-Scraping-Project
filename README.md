@@ -21,7 +21,7 @@ BeautifulSoup / Requests
 
 Pandas
 
-Jupyter Notebook
+Colab Notebook
 
 📂 Project Workflow
 
